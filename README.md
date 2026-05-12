@@ -4,7 +4,7 @@ Pick a theme. Get clean, unique, actually usable nicknames — no cringe.
 ---
 
 ## Live Demo
-_Coming soon_
+https://nickname-generator-kappa.vercel.app/
 
 ---
 
